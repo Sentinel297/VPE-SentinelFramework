@@ -1,0 +1,8 @@
+If you're reading this and installed the mod from a third party site, don't expect this mod to work perfectly.
+
+These reposters do not make sure that mods function as they should and leave outdated versions of the mods on their site, bug reports will be ignored if you did not install the mod directly from these sources:
+
+Steam: https://steamcommunity.com/profiles/76561199182497490/myworkshopfiles/
+Github: https://github.com/Sentinel297
+
+If you're the reposter, delete this now.
