@@ -4,7 +4,7 @@ This software/mod is the intellectual property of the owner of this work and is 
 
 You are NOT allowed to:
 
-1. Copy, or redistribute in any form. (e.g re-uploading to another site, unauthorized forks, copying content verbatim to the protected material).
+1. Copy, or redistribute in any form. (e.g re-uploading to another site, unauthorized continuations, copying content verbatim to the protected material).
 2. Sell, license, or otherwise distribute this work.
 
 This copyright does NOT apply to content such as:
@@ -21,7 +21,7 @@ Only the owner of this work has the rights to alter, distribute, or license this
 
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
 
-This mod requires \[Vanilla Psycasts Expanded], which is property of the VEF team and is subject to its own license. Users must comply with the framework’s license terms. This copyright applies only to the original content of this mod.
+This mod requires \[Vanilla Psycasts Expanded], which is property of the VE team and is subject to its own license. Users must comply with the framework’s license terms. This copyright applies only to the original content of this mod.
 
 By using this mod, you agree to these terms and acknowledge that any infringement of this copyright may result in removal of the infringing content via DMCA if the infringing party does not comply.
 
