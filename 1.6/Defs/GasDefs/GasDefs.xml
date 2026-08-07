@@ -1,0 +1,13 @@
+<Defs>
+<ThingDef Name="VPE_SentinelFramework_Gas_STNL" Abstract="True">
+	<label>gas</label>
+	<category>Gas</category>
+	<altitudeLayer>Gas</altitudeLayer>
+	<useHitPoints>false</useHitPoints>
+	<tickerType>Normal</tickerType>
+	<graphicData>
+		<graphicClass>Graphic_Gas</graphicClass>
+		<shaderType>Transparent</shaderType>
+	</graphicData>
+</ThingDef>
+</Defs>
