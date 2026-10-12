@@ -3,6 +3,7 @@
 	<author>Sentinel</author>
 	<supportedVersions>
 		<li>1.6</li>
+		<li>1.7</li>
 	</supportedVersions>
 	<modVersion>1.0</modVersion>
 	<modDependencies>
