@@ -11,18 +11,15 @@
 			<li MayRequire="Ludeon.Rimworld.Anomaly">Inhumanized</li>
 			<li MayRequire="Ludeon.Rimworld.Anomaly">VoidTouched</li>
 			<li MayRequire="Ludeon.Rimworld.Anomaly">Psychophage</li>
-			<!-- Scarlet -->
-			<li MayRequire="VPE.Scarlet.Sentinel">VPE_ScarletStasisHediffSTNL</li>
-			<li MayRequire="VPE.Scarlet.Sentinel">VPE_MechaniteFocusHediffSTNL</li>
-			<li MayRequire="VPE.Scarlet.Sentinel">VPE_ScarvestHediffSTNL</li>
-			<li MayRequire="VPE.Scarlet.Sentinel">VPE_ScarletNexusHediffSTNL</li>
-			<li MayRequire="VPE.Scarlet.Sentinel">VPE_ScarlichHediffSTNL</li>
 		</allowedTransferHediffs>
 		<hediffsToRemove>
 			<!-- Neurophage -->
 			<li MayRequire="VPE.Neurophage.Sentinel">VPE_Neurophage_NeuralString_Controller_STNL</li>
 			<!-- Blackwall -->
 			<li MayRequire="VPE.Blackwall.Sentinel">VPE_Blackwall_Conduit_Hediff_STNL</li>
+			<!-- Scarlet -->
+			<li MayRequire="VPE.Scarlet.Sentinel">VPE_MechaniteFocusHediffSTNL</li>
+			<li MayRequire="VPE.Scarlet.Sentinel">VPE_ScarvestHediffSTNL</li>
 		</hediffsToRemove>
 	</SentinelFramework_STNL.SoulHealthTransferDef>
 </Defs>

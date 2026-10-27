@@ -1,11 +1,12 @@
 <LanguageData>
-
-<SentinelFramework_CompDestroy_Label_STNL>Destroy: {0}</SentinelFramework_CompDestroy_Label_STNL>
-<!-- Soul -->
-
-<SentinelFramework_StoredSoul_Label_STNL>Stored soul: {0}</SentinelFramework_StoredSoul_Label_STNL>
-<SentinelFramework_StoredSoul_SoulInfo_STNL>Soul faction: {0}\nSoul ideology: {1}</SentinelFramework_StoredSoul_SoulInfo_STNL>
-<SentinelFramework_StoredSoul_None_STNL>No stored soul.</SentinelFramework_StoredSoul_None_STNL>
-<SentinelFramework_StoredSoul_NoPsylink_STNL>No stored psylink.</SentinelFramework_StoredSoul_NoPsylink_STNL>
-<SentinelFramework_StoredSoul_PsylinkInfo_STNL>Stored psylink:\nLevel: {0}</SentinelFramework_StoredSoul_PsylinkInfo_STNL>
+<!-- Comp destroy -->
+	<SentinelFramework_CompDestroy_Label_STNL>Destroy: {0}</SentinelFramework_CompDestroy_Label_STNL>
+	<!-- Soul -->
+	<SentinelFramework_StoredSoul_Label_STNL>Stored soul: {0}</SentinelFramework_StoredSoul_Label_STNL>
+	<SentinelFramework_StoredSoul_SoulInfo_STNL>Soul faction: {0}\nSoul ideology: {1}</SentinelFramework_StoredSoul_SoulInfo_STNL>
+	<SentinelFramework_StoredSoul_None_STNL>No stored soul.</SentinelFramework_StoredSoul_None_STNL>
+	<SentinelFramework_StoredSoul_NoPsylink_STNL>No stored psylink.</SentinelFramework_StoredSoul_NoPsylink_STNL>
+	<SentinelFramework_StoredSoul_PsylinkInfo_STNL>Stored psylink:\nLevel: {0}</SentinelFramework_StoredSoul_PsylinkInfo_STNL>
+	<!-- LoS faction rep loss -->
+	<SentinelFramework_RepLoss_SeenBy_STNL>Seen by {0}.</SentinelFramework_RepLoss_SeenBy_STNL>
 </LanguageData>
