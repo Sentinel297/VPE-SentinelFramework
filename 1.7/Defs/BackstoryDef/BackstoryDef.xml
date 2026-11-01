@@ -1,0 +1,17 @@
+<Defs>
+
+  <BackstoryDef>
+    <defName>SentinelFramework_HuskBackstory_Child_STNL</defName>  
+    <ignoreIllegalLabelCharacterConfigError>False</ignoreIllegalLabelCharacterConfigError>  
+    <!-- <identifier>FarmKid60</identifier>   -->
+    <slot>Childhood</slot>  
+    <title>husk</title>  
+    <titleShort>husk</titleShort>  
+    <description>[PAWN_nameDef] was soul reaped.</description>  
+    <skillGains/>  
+    <workDisables>None</workDisables>  
+    <requiredWorkTags>None</requiredWorkTags>  
+    <shuffleable>False</shuffleable>  
+  </BackstoryDef>
+
+</Defs>
