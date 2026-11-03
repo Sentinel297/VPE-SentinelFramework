@@ -22,4 +22,20 @@
 			<li MayRequire="VPE.Scarlet.Sentinel">VPE_ScarvestHediffSTNL</li>
 		</hediffsToRemove>
 	</SentinelFramework_STNL.SoulHealthTransferDef>
+	
+	<!-- Used in SwapSouls, transfers everything from one pawn to another, including bionics, mechlinks, diseases, etc -->
+	
+	<SentinelFramework_STNL.SoulHealthTransferDef>
+		<defName>VPE_SentinelFramework_SoulHediffTransfer_Full_STNL</defName>
+		<allowEverything>true</allowEverything>
+		<hediffsToRemove>
+			<!-- Neurophage -->
+			<li MayRequire="VPE.Neurophage.Sentinel">VPE_Neurophage_NeuralString_Controller_STNL</li>
+			<!-- Blackwall -->
+			<li MayRequire="VPE.Blackwall.Sentinel">VPE_Blackwall_Conduit_Hediff_STNL</li>
+			<!-- Veincaster -->
+			<li MayRequire="VPE.Veincaster.Sentinel">VPE_Bloodlink_Receiver_STNL</li>
+			<li MayRequire="VPE.Veincaster.Sentinel">VPE_Bloodlink_Donor_STNL</li>
+		</hediffsToRemove>
+	</SentinelFramework_STNL.SoulHealthTransferDef>
 </Defs>
