@@ -4,6 +4,7 @@
     <defName>VPE_SentinelFramework_ArmorEffectiveness_STNL</defName>
     <label>Worn armor effectiveness</label>
     <description>Factor that affects the effectiveness of worn armor.</description>
+	<workerClass>SentinelFramework_STNL.StatWorker_ArmorStrip</workerClass>
     <category>BasicsPawn</category>
     <defaultBaseValue>1</defaultBaseValue>
     <minValue>0</minValue>
